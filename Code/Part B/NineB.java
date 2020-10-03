@@ -1,8 +1,5 @@
 public class NineB {
     public static void main(String[] args) {
-        // 2d array 1234
-        // print forward if row is even
-        // print backward if row is odd
         int arr[][] = {
                 {1, 2, 3, 4},
                 {5, 6, 7, 8},
@@ -23,7 +20,7 @@ public class NineB {
             {
                 for(int j=3; j>=0; j--)
                 {
-                    System.out.print(arr[i][j] + " ");
+                    System.out.print(arr[i][j] - 4 + " ");
                 }
             }
             System.out.print("\n");

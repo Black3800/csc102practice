@@ -14,7 +14,6 @@ public class FiveB {
             }
             else
             {
-                x *= 2;
                 break;
             }
             r += x;
