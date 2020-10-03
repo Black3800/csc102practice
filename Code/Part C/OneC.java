@@ -1,5 +1,9 @@
+import java.util.Scanner;
+
 public class OneC {
     public static void main(String[] args) {
-        System.out.println("asasas");
+//        Scanner sc = new Scanner(System.in);
+//        String n = nextLine();
+//        System.out.println(n)
     }
 }
